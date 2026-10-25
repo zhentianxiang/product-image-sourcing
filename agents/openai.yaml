@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Image Sourcing"
+  short_description: "Find and download B2B product reference images"
+  default_prompt: "Use $product-image-sourcing to find similar products across independent B2B sites and download their public product images with source links."
